@@ -1,5 +1,11 @@
 # fractils
 
+## 3.1.3
+
+### Patch Changes
+
+-   [fix] add wildcard exports ([`11c4c0083ee2afbf95c305c4a71e9c2171645de9`](https://github.com/FractalHQ/fractils/commit/11c4c0083ee2afbf95c305c4a71e9c2171645de9))
+
 ## 3.1.2
 
 ### Patch Changes
